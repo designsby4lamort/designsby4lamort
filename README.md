@@ -18,11 +18,11 @@
   <a href="https://pinterest.com/YOURNAME">
     <img src="https://img.shields.io/badge/𝔓𝔦𝔫𝔱𝔢𝔯𝔢𝔰𝔱-4B0000?style=for-the-badge&logo=pinterest&logoColor=white">
   </a>
-  <span style="color:#4B0000; margin: 0 12px;">⟡</span>
+  <span style="color:#4B0000; margin: 0 12px;">݁ᛪ༙♱</span>
   <a href="https://YOURNAME.straw.page">
     <img src="https://img.shields.io/badge/𝔖𝔱𝔯𝔞𝔴𝔭𝔞𝔤𝔢-4B0000?style=for-the-badge&logoColor=white">
   </a>
-  <span style="color:#4B0000; margin: 0 12px;">⟡</span>
+  <span style="color:#4B0000; margin: 0 12px;">݁ᛪ༙♱</span>
 
   <a href="https://YOURNAME.atabook.org">
     <img src="https://img.shields.io/badge/𝔄𝔱𝔞𝔟𝔬𝔬𝔨-4B0000?style=for-the-badge&logoColor=white">
