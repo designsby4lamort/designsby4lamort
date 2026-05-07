@@ -23,7 +23,7 @@ $\color{darkred}{\textsf{\huge ASTARION 𖤐}}$
 
 <p align="center" style="white-space: nowrap;">
   
-  <a href="https://pinterest.com/YOURNAME">
+  <a href="https://www.pinterest.com/HELLSINGSTRUMPCARD/_profile/">
     <img src="https://img.shields.io/badge/𝔓𝔦𝔫𝔱𝔢𝔯𝔢𝔰𝔱-4B0000?style=for-the-badge&logo=pinterest&logoColor=white">
   </a>
   <span style="color:#4B0000; margin: 0 12px;">݁ᛪ༙♱</span>
