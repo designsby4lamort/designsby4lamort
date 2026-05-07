@@ -1,6 +1,10 @@
    <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BALDURSGATE-3&label=۶ৎ&color=4B0000&style=flat" alt="Profile Views" />
 </p>
+
+<p align="center">
+$\color{darkred}{\textsf{\huge ASTARION 𖤐}}$
+</p>
  
  <p align="center">
 <img width="700" height="40" alt="tumblr_df88d9cefaab04e5ff5c3e792ec3af1c_09257038_1280" src="https://github.com/user-attachments/assets/90c4eeca-5af8-4a51-85da-27cce5317d2b" />
